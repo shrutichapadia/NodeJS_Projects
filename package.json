@@ -1,0 +1,17 @@
+{
+  "name": "nutrition_api",
+  "version": "1.0.0",
+  "description": "Nutirtion information about fruits and vegtables ",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shruti Chapadia <shrutichapadia@gmail.com>",
+  "license": "ISC"
+}
